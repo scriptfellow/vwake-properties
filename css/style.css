@@ -456,3 +456,7 @@
 .blog-item a:hover i::after {
   width: 50px;
 }
+
+.site-details li {
+  margin-bottom: 12px;
+}
