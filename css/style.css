@@ -460,3 +460,9 @@
 .site-details li {
   margin-bottom: 12px;
 }
+
+@media (min-width: 576px) {
+  .carousel-inner {
+    height: 500px !important;
+  }
+}
